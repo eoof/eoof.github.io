@@ -15,7 +15,7 @@ publishDir = ".."
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "John Doe"
+  name = "eoof eoof"
   #thumbnail = "/images/author.png"
   thumbnail = "/images/logo.jpg"
   description = "Creator of this blog."
@@ -33,20 +33,20 @@ Currently trying to get this blog running, still don't know what the blog will b
   alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
-  twitter = "<username>"
+  github = "eoof"
+  #linkedin = "<username>"
+  #xing = "<username>"
+  #medium = "eoof"
+  #twitter = "<username>"
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "blog"
     weight = 100
     identifier = "blog"
     url = "/blog"
 [[menu.main]]
-    name = "About Me"
+    name = "about"
     identifier = "about"
     weight = 200
     url = "/"
