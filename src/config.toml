@@ -10,19 +10,19 @@ publishDir = ".."
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
-  logo = "/images/logo.jpg"
+  logo = "/images/logo.png"
   description ="the clean blog!"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
   name = "eoof eoof"
   #thumbnail = "/images/author.png"
-  thumbnail = "/images/logo.jpg"
+  thumbnail = "/images/author.png"
   description = "Creator of this blog."
 
 [params.index]
   #picture = "/images/author.png"
-  picture = "images/logo.jpg"
+  picture = "images/author.png"
   title = "eoof"
   subtitle = "I'm a unique placeholder. Working here and there!"
   mdtext = '''
