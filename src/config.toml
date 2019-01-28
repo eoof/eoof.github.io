@@ -1,27 +1,29 @@
 baseURL = "https://eoof.github.io"
 languageCode = "en-us"
-title = "Mediumish"
+title = "eoof"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
-copyright = "John Doe - All rights reserved"
+copyright = "eoof - All rights reserved"
 enableEmoji = true
-publishDir = "docs"
+publishDir = ".."
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
-  logo = "/images/logo.png"
+  logo = "/images/logo.jpg"
   description ="the clean blog!"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
   name = "John Doe"
-  thumbnail = "/images/author.png"
+  #thumbnail = "/images/author.png"
+  thumbnail = "/images/logo.jpg"
   description = "Creator of this blog."
 
 [params.index]
-  picture = "/images/author.png"
-  title = "John Doe"
+  #picture = "/images/author.png"
+  picture = "images/logo.jpg"
+  title = "eoof"
   subtitle = "I'm a unique placeholder. Working here and there!"
   mdtext = '''
 Currently trying to get this blog running, still don't know what the blog will be about!\

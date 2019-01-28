@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mediumish</title>
+    <title>eoof</title>
     <link>https://eoof.github.io/</link>
-    <description>Recent content on Mediumish</description>
+    <description>Recent content on eoof</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>John Doe - All rights reserved</copyright>
+    <copyright>eoof - All rights reserved</copyright>
     <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
     
 	<atom:link href="https://eoof.github.io/index.xml" rel="self" type="application/rss+xml" />
