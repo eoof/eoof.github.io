@@ -7,91 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>eoof - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate>
     
 	<atom:link href="https://eoof.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ninth</title>
-      <link>https://eoof.github.io/blog/ninth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/ninth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Eighth</title>
-      <link>https://eoof.github.io/blog/eighth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/eighth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Seventh</title>
-      <link>https://eoof.github.io/blog/seventh/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:29 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/seventh/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Sixth</title>
-      <link>https://eoof.github.io/blog/sixth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/sixth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Fifth</title>
-      <link>https://eoof.github.io/blog/fifth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/fifth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Fourth</title>
-      <link>https://eoof.github.io/blog/fourth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/fourth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Third</title>
-      <link>https://eoof.github.io/blog/third/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/third/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>https://eoof.github.io/blog/second/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/second/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://eoof.github.io/blog/my-first-post/</link>
-      <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/my-first-post/</guid>
-      <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
-    </item>
     
     <item>
       <title>Imprint</title>
@@ -100,6 +19,42 @@
       
       <guid>https://eoof.github.io/static/imprint/</guid>
       <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+    </item>
+    
+    <item>
+      <title>dns-expert</title>
+      <link>https://eoof.github.io/blog/dns-expert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoof.github.io/blog/dns-expert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imposter-syndrome</title>
+      <link>https://eoof.github.io/blog/300k-salary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoof.github.io/blog/300k-salary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes expert</title>
+      <link>https://eoof.github.io/blog/kubernetes-expert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoof.github.io/blog/kubernetes-expert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>letsencrypt</title>
+      <link>https://eoof.github.io/blog/letsencrypt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eoof.github.io/blog/letsencrypt/</guid>
+      <description></description>
     </item>
     
   </channel>

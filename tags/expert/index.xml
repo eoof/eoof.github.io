@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on eoof</title>
-    <link>https://eoof.github.io/blog/</link>
-    <description>Recent content in Blogs on eoof</description>
+    <title>Expert on eoof</title>
+    <link>https://eoof.github.io/tags/expert/</link>
+    <description>Recent content in Expert on eoof</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>eoof - All rights reserved</copyright>
     
-	<atom:link href="https://eoof.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eoof.github.io/tags/expert/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,29 +21,11 @@
     </item>
     
     <item>
-      <title>imposter-syndrome</title>
-      <link>https://eoof.github.io/blog/300k-salary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eoof.github.io/blog/300k-salary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>kubernetes expert</title>
       <link>https://eoof.github.io/blog/kubernetes-expert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eoof.github.io/blog/kubernetes-expert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>letsencrypt</title>
-      <link>https://eoof.github.io/blog/letsencrypt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eoof.github.io/blog/letsencrypt/</guid>
       <description></description>
     </item>
     
