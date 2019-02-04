@@ -20,17 +20,17 @@ publishDir = ".."
   name = "eoof eoof"
   #thumbnail = "/images/author.png"
   thumbnail = "/images/author.png"
-  description = "Creator of this blog."
+  description = "eoof eoof"
 
 [params.index]
   #picture = "/images/author.png"
-  picture = "images/author.png"
+  #picture = "images/author.png"
   title = "eoof"
-  subtitle = "I'm a unique placeholder. Working here and there!"
+  subtitle = "real unreal stories"
   mdtext = '''
-Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading
+real stuff from 
+**unreal**\
+### IT jobs
 '''
   alertbar = false
 
