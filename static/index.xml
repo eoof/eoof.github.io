@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>eoof - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate>
     
 	<atom:link href="https://eoof.github.io/static/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +14,10 @@
     <item>
       <title>Imprint</title>
       <link>https://eoof.github.io/static/imprint/</link>
-      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eoof.github.io/static/imprint/</guid>
-      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+      <description> used are  makebeliefcomix.com github hugo mediumish-gohugo-theme  </description>
     </item>
     
   </channel>

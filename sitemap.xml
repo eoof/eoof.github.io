@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eoof.github.io/static/imprint/</loc>
-    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eoof.github.io/tags/300k/</loc>
     <priority>0</priority>
   </url>
@@ -42,6 +37,10 @@
   </url>
   
   <url>
+    <loc>https://eoof.github.io/static/imprint/</loc>
+  </url>
+  
+  <url>
     <loc>https://eoof.github.io/tags/kubernetes/</loc>
     <priority>0</priority>
   </url>
@@ -58,7 +57,6 @@
   
   <url>
     <loc>https://eoof.github.io/static/</loc>
-    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,7 +76,6 @@
   
   <url>
     <loc>https://eoof.github.io/</loc>
-    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
