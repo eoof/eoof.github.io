@@ -8,6 +8,15 @@
   </url>
   
   <url>
+    <loc>https://eoof.github.io/tags/300k/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eoof.github.io/blog/300k-salary/</loc>
+  </url>
+  
+  <url>
     <loc>https://eoof.github.io/blog/</loc>
     <priority>0</priority>
   </url>
@@ -43,6 +52,11 @@
   </url>
   
   <url>
+    <loc>https://eoof.github.io/tags/salary/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://eoof.github.io/static/</loc>
     <lastmod>2018-10-07T11:12:00+02:00</lastmod>
     <priority>0</priority>
@@ -69,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://eoof.github.io/blog/300k-salary/</loc>
+    <loc>https://eoof.github.io/blog/imposter-syndrome/</loc>
   </url>
   
   <url>

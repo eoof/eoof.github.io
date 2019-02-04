@@ -1,6 +1,6 @@
 ---
-title: "imposter-syndrome"
-image: "/images/blog/imposter-syndrome.png"
-tags: ["imposter","syndrome"]
+title: "300k-salary"
+image: "/images/blog/300k-salary.png"
+tags: ["300k","salary"]
 comments: false
 ---
