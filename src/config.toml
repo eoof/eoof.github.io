@@ -11,7 +11,7 @@ publishDir = ".."
 
 [params]
   logo = "/images/logo.png"
-  description ="the clean blog!"
+  description ="the unreal IT stories"
   #mailchimp = "you can provide a mailchimp-link here"
   mailchimp = "https://github.us20.list-manage.com/subscribe/post?u=3a6c8e9413cb5fcdc89160a5d&amp;id=673867ae25"
   mailprotect = "b_3a6c8e9413cb5fcdc89160a5d_673867ae25"
