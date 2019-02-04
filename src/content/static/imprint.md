@@ -1,9 +1,9 @@
 ---
 title: "Imprint"
 ---
-## used are
+### colophone
 
-* makebeliefcomix.com
+* makebeliefscomix.com
 * github
 * hugo
 * mediumish-gohugo-theme
