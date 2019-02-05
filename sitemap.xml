@@ -3,16 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eoof.github.io/blog/coding-school/</loc>
+    <lastmod>2019-01-18T11:40:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eoof.github.io/blog/a-300k-salary/</loc>
+    <lastmod>2019-01-17T11:40:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eoof.github.io/blog/dns-expert/</loc>
+    <lastmod>2019-01-16T11:40:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eoof.github.io/blog/imposter-syndrome/</loc>
+    <lastmod>2019-01-14T11:40:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eoof.github.io/blog/kubernetes-expert/</loc>
+    <lastmod>2019-01-13T11:40:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eoof.github.io/blog/letsencrypt/</loc>
+    <lastmod>2019-01-11T11:40:11+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eoof.github.io/tags/300k/</loc>
+    <lastmod>2019-01-17T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eoof.github.io/blog/300k-salary/</loc>
-  </url>
-  
-  <url>
     <loc>https://eoof.github.io/blog/</loc>
+    <lastmod>2019-01-18T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -22,17 +50,26 @@
   </url>
   
   <url>
+    <loc>https://eoof.github.io/tags/coding/</loc>
+    <lastmod>2019-01-18T11:40:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://eoof.github.io/tags/dns/</loc>
+    <lastmod>2019-01-16T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eoof.github.io/tags/expert/</loc>
+    <lastmod>2019-01-16T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eoof.github.io/tags/imposter/</loc>
+    <lastmod>2019-01-14T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,16 +79,25 @@
   
   <url>
     <loc>https://eoof.github.io/tags/kubernetes/</loc>
+    <lastmod>2019-01-13T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eoof.github.io/tags/letsencrypt/</loc>
+    <lastmod>2019-01-11T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eoof.github.io/tags/salary/</loc>
+    <lastmod>2019-01-17T11:40:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eoof.github.io/tags/school/</loc>
+    <lastmod>2019-01-18T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,33 +108,20 @@
   
   <url>
     <loc>https://eoof.github.io/tags/syndrome/</loc>
+    <lastmod>2019-01-14T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eoof.github.io/tags/</loc>
+    <lastmod>2019-01-17T11:40:11+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eoof.github.io/blog/dns-expert/</loc>
   </url>
   
   <url>
     <loc>https://eoof.github.io/</loc>
+    <lastmod>2019-01-18T11:40:11+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eoof.github.io/blog/imposter-syndrome/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eoof.github.io/blog/kubernetes-expert/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eoof.github.io/blog/letsencrypt/</loc>
   </url>
   
 </urlset>

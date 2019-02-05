@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>eoof - All rights reserved</copyright>
+    <lastBuildDate>Sun, 13 Jan 2019 11:40:11 +0200</lastBuildDate>
     
 	<atom:link href="https://eoof.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>kubernetes expert</title>
       <link>https://eoof.github.io/blog/kubernetes-expert/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Jan 2019 11:40:11 +0200</pubDate>
       
       <guid>https://eoof.github.io/blog/kubernetes-expert/</guid>
       <description></description>
