@@ -26,9 +26,9 @@ publishDir = ".."
   #picture = "/images/author.png"
   #picture = "images/author.png"
   title = "eoof"
-  subtitle = "real stories"
+  subtitle = "real"
   mdtext = '''
-from 
+[stories](https://eoof.github.io/blog) from 
 **unreal**\
 ### IT jobs
 '''
