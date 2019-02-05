@@ -1,7 +1,7 @@
 ---
 title: "Imprint"
 ---
-### colophone
+### colophon
 
 * makebeliefscomix.com
 * github
