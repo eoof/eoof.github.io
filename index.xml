@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>eoof - All rights reserved</copyright>
-    <lastBuildDate>Fri, 25 Jan 2019 11:40:11 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Feb 2019 11:40:11 +0200</lastBuildDate>
     
 	<atom:link href="https://eoof.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>azure down</title>
+      <link>https://eoof.github.io/blog/azure-down/</link>
+      <pubDate>Mon, 04 Feb 2019 11:40:11 +0200</pubDate>
+      
+      <guid>https://eoof.github.io/blog/azure-down/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>machine learning</title>
