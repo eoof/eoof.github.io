@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on eoof</title>
+    <link>https://eoof.github.io/tags/ai/</link>
+    <description>Recent content in Ai on eoof</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>eoof - All rights reserved</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 11:40:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://eoof.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://eoof.github.io/blog/machine-learning/</link>
+      <pubDate>Fri, 25 Jan 2019 11:40:11 +0200</pubDate>
+      
+      <guid>https://eoof.github.io/blog/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
