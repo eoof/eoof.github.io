@@ -18,7 +18,7 @@
       <pubDate>Mon, 04 Feb 2019 11:40:11 +0200</pubDate>
       
       <guid>https://eoof.github.io/blog/azure-down/</guid>
-      <description></description>
+      <description>Databases losing data is bad. AKS (Azure Kubernetes) is still using old 1.9.X versions which are not secure. The 1.9.X version reached End-of-life as of September, 2018.</description>
     </item>
     
   </channel>

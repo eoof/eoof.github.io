@@ -98,6 +98,14 @@
     </ul>
 
     
+        <div class="sep">
+        </div>				
+        <ul>
+            <li> 
+            <a  class="small smoothscroll" href="#disqus_thread"></a>
+            </li>
+        </ul>
+    
 </div></div>
                                 
                 <div class="col-md-9 flex-first flex-md-unordered">
@@ -117,7 +125,7 @@
                                     <i class="far fa-star"></i>
                                     Feb 4, 2019
                                     <i class="far fa-clock clock"></i>
-                                    0 min read
+                                    2 min read
                                 </span>					
                             </div>
                         </div>			
@@ -136,7 +144,16 @@
                     
                     
                     <div class="article-post">
-                        
+                        <p>Databases losing data is bad. AKS (Azure Kubernetes) is still using old 1.9.X versions which are not secure. The 1.9.X version reached End-of-life as of September, 2018. The AKS is not available in AzureStack either. It is telling in a way.</p>
+
+<p>Often you can only create Kubernetes cluster in the US-central.  Many resources are created and billed when you create AKS cluster. A lot of the objects and resources billed for a AKS cluster makes little sense. It is costly and slow.</p>
+
+<p>Better option is to use <a href="https://m.do.co/c/1c6de959e2b7">Digital Ocean</a>.  They bill monthly on flat rate.  It&rsquo;s <a href="https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/">easy</a> to create a kubernetes cluster via kubeadm.</p>
+
+<p>To create a  kubernetes cluster on digital ocean, you can use their kubernetes cluster service or just create three VMs.  On the first VM you can run the kubernetes control plane.  This master node can be tainted to allow running pods as well. The details are <a href="https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/">here</a>.  But basically you run <code>kubeadm init</code> on the master node.  It takes up to 10 minutes. After that, you will run a CNI.  A good choice is Calico.  Run the <code>kubectl apply</code> as described in the kubeadm page.  Then go to other VM nodes and run <code>kubeadm join</code> with the printed token when <code>kubeadm init</code> was run on master.  Do this on each node.  After that you should be able to <code>kubectl get nodes</code> and see the cluster nodes.  This my preferred way to deploy kubernetes in the cloud. It is cheaper, more efficient and easier to manage than EKS, AKS or GKE.</p>
+
+<p>If you need help, comment below using disqus.</p>
+
                     </div>
                     
                     
@@ -170,6 +187,33 @@
         </div>
         
         
+<div class="container">
+    <div id="comments" class="row justify-content-center mb-5">
+        <div class="col-md-8">              
+            <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "dsq-count-scr" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>               
+        </div>
+    </div>
+</div>
+
     </div>
 <div class="alertbar">
 	<div class="container text-center">
