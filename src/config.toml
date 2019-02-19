@@ -8,6 +8,7 @@ enableEmoji = true
 publishDir = ".."
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
+googleAnalytics = "UA-134762592-1"
 
 [params]
   logo = "/images/logo.png"
