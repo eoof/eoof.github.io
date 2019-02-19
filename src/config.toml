@@ -13,13 +13,13 @@ disqusShortname = "dsq-count-scr"
 
 [params]
   logo = "/images/logo.png"
-  description ="dull IT stories"
+  description ="pretty much real IT stories"
   #mailchimp = "you can provide a mailchimp-link here"
   mailchimp = "https://github.us20.list-manage.com/subscribe/post?u=3a6c8e9413cb5fcdc89160a5d&amp;id=673867ae25"
   mailprotect = "b_3a6c8e9413cb5fcdc89160a5d_673867ae25"
 
 [params.author]
-  name = "eoof eoof"
+  name = "oof eoof"
   #thumbnail = "/images/author.png"
   thumbnail = "/images/author.png"
   description = "bad content"
@@ -28,11 +28,11 @@ disqusShortname = "dsq-count-scr"
   #picture = "/images/author.png"
   #picture = "images/author.png"
   title = "eoof"
-  subtitle = "boring"
+  subtitle = "mostly real"
   mdtext = '''
 [stories](https://eoof.github.io/blog) from 
-**monotonous**\
-### IT jobs
+**various IT jobs**\
+#### consultant for [hire](mailto:eoof@pm.me)
 '''
   alertbar = false
 
