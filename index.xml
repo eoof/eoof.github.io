@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>eoof - All rights reserved</copyright>
-    <lastBuildDate>Mon, 04 Feb 2019 11:40:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Feb 2019 11:40:11 +0200</lastBuildDate>
     
 	<atom:link href="https://eoof.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bitcoin</title>
+      <link>https://eoof.github.io/blog/bitcoin/</link>
+      <pubDate>Tue, 19 Feb 2019 11:40:11 +0200</pubDate>
+      
+      <guid>https://eoof.github.io/blog/bitcoin/</guid>
+      <description>Bitcoin is hard to grok for most folks. The best explanation may be this.
+The Canadian Crypto Exchange QuadrigaCX CEO who died with sole crypto keys (password) making it impossible for customers to access bitcoins is a recent example of unregulated bitcoin interests.</description>
+    </item>
     
     <item>
       <title>azure down</title>
@@ -28,15 +38,6 @@ Azure has come a long way since its rough beginnings. It was frankly unusable in
       <pubDate>Fri, 25 Jan 2019 11:40:11 +0200</pubDate>
       
       <guid>https://eoof.github.io/blog/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bitcoin</title>
-      <link>https://eoof.github.io/blog/bitcoin/</link>
-      <pubDate>Thu, 24 Jan 2019 11:40:11 +0200</pubDate>
-      
-      <guid>https://eoof.github.io/blog/bitcoin/</guid>
       <description></description>
     </item>
     
