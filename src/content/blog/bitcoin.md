@@ -26,3 +26,9 @@ More relevant may be questions regarding [what happens to bitcoin when you die](
 Recent comments by [Bruce Schneier](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) claimed Bitcoin is essentially useless.  Fighting words. But the responses to this article from the bitcoin community has been vehement personal attacks.  The points raised by Schneier are quite valid. 
 
 JP Morgan Chase boss Jamie Dimon famously called bitcoin as a "fraud". Yet, JP Morgan will be creating [its own crypto currency](https://www.cnn.com/2019/02/14/investing/jpmorgan-jpm-coin-cryptocurrency/index.html).  This is both greedy and cynical. After all we are talking about the [John Pierpoint Morgan](https://www.smithsonianmag.com/history/j-p-morgan-as-cutthroat-capitalist-74972230/).
+
+Vladimir Putin [met Vitalik Buterin](https://cointelegraph.com/news/suddenly-vladimir-putin-meets-vitalik-buterin-endorses-ethereum) to endorse Ethereum.  How seemingly innocent innovations like ethereum gets entangled in geo politics and economy, manned by the very same Stalin-esque cast of characters.
+
+The confusions and hand waving behind [Proof of Work vs. Proof of Stakes](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) is telling enough.  Someone announces a hard fork.  Enormous sums of money appear and disappear into black holes.  People probably will die sudden strange deaths.  Are to to believe that the code base with [more than 600 open issues](https://github.com/ethereum/go-ethereum/issues) can be basis to replace the global banking system which can be automated without regulating institutions and people who manage them. People with hopefully with minimal sense of ethics?
+
+Everything comes around in full circle. The basic goals of de-centralized cryptocurrency that does not require central regulating institutions are in full retreat. It's just about getting more money.
