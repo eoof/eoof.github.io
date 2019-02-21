@@ -95,6 +95,12 @@
   </url>
   
   <url>
+    <loc>https://eoof.github.io/tags/digitalocean/</loc>
+    <lastmod>2019-02-04T11:40:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://eoof.github.io/tags/dns/</loc>
     <lastmod>2019-01-16T11:40:11+02:00</lastmod>
     <priority>0</priority>
@@ -118,7 +124,7 @@
   
   <url>
     <loc>https://eoof.github.io/tags/kubernetes/</loc>
-    <lastmod>2019-01-13T11:40:11+02:00</lastmod>
+    <lastmod>2019-02-04T11:40:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   

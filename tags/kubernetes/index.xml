@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>eoof - All rights reserved</copyright>
-    <lastBuildDate>Sun, 13 Jan 2019 11:40:11 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Feb 2019 11:40:11 +0200</lastBuildDate>
     
 	<atom:link href="https://eoof.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>azure down</title>
+      <link>https://eoof.github.io/blog/azure-down/</link>
+      <pubDate>Mon, 04 Feb 2019 11:40:11 +0200</pubDate>
+      
+      <guid>https://eoof.github.io/blog/azure-down/</guid>
+      <description>Databases losing data is bad. Not once but repeatedly.
+Azure has come a long way since its rough beginnings. It was frankly unusable in its early days.</description>
+    </item>
     
     <item>
       <title>kubernetes expert</title>

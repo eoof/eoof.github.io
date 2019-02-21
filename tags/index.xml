@@ -67,6 +67,15 @@
     </item>
     
     <item>
+      <title>Digitalocean</title>
+      <link>https://eoof.github.io/tags/digitalocean/</link>
+      <pubDate>Mon, 04 Feb 2019 11:40:11 +0200</pubDate>
+      
+      <guid>https://eoof.github.io/tags/digitalocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dns</title>
       <link>https://eoof.github.io/tags/dns/</link>
       <pubDate>Wed, 16 Jan 2019 11:40:11 +0200</pubDate>
@@ -96,7 +105,7 @@
     <item>
       <title>Kubernetes</title>
       <link>https://eoof.github.io/tags/kubernetes/</link>
-      <pubDate>Sun, 13 Jan 2019 11:40:11 +0200</pubDate>
+      <pubDate>Mon, 04 Feb 2019 11:40:11 +0200</pubDate>
       
       <guid>https://eoof.github.io/tags/kubernetes/</guid>
       <description></description>
