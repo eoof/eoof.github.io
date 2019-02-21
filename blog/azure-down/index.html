@@ -154,9 +154,40 @@
 
 <p>It&rsquo;s <a href="https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/">easy</a> to create a kubernetes cluster via kubeadm.  Because it&rsquo;s so easy and undoable, it does not make much sense to subscribe to the canned deployments via AKS, EKS, GKE at extraordinary markups and suspicious extra charges. It&rsquo;s not just about pricing. It&rsquo;s about control.</p>
 
-<p>To create a  kubernetes cluster on digital ocean, you can use their kubernetes cluster service or just create some VMs. I typically use $5 per month VMs. <a href="https://5pi.de/2016/11/20/15-producation-grade-kubernetes-cluster/">Here</a>, you can find a good blog article on how to set up a $15 kubernetes cluster on Digital Ocean.  Here&rsquo;s a short version (what I typically do): On the first VM you can run the kubernetes control plane.  This master node can be tainted to allow running pods as well. The details are <a href="https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/">here</a>.</p>
+<p>To create a  kubernetes cluster on digital ocean, you can use their kubernetes cluster service or just create some VMs. I typically use $5 per month VMs. <a href="https://5pi.de/2016/11/20/15-producation-grade-kubernetes-cluster/">Here</a>, you can find a good blog article on how to set up a $15 kubernetes cluster on Digital Ocean.  The details are <a href="https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/">here</a>.</p>
 
-<p>But basically you have 1,2,3 steps.  First, you run <code>kubeadm init</code> on the master node.  It takes up to 10 minutes. After that, you will run a CNI.  A good choice is Calico.  Run the <code>kubectl apply</code> as described in the kubeadm page.  Then go to other VM nodes and run <code>kubeadm join</code> with the printed token when <code>kubeadm init</code> was run on master.  Do this on each node.  After that you should be able to <code>kubectl get nodes</code> and see the cluster nodes.  This my preferred way to deploy kubernetes in the cloud. It is cheaper, more efficient and easier to manage than EKS, AKS or GKE.</p>
+<p>Here are simplified steps:</p>
+
+<p>On first node (master node),</p>
+
+<pre><code>$ kubeadm init --pod-network-cidr=192.168.0.0/16
+[init] Using Kubernetes version: vX.Y.Z
+[preflight] Running pre-flight checks
+[preflight] Pulling images required for setting up a Kubernetes cluster
+...
+</code></pre>
+
+<p>This takes up to 10 minutes. When finished, the join <code>TOKEN</code> is printed, which will be later used to join worker nodes.</p>
+
+<p>After that, you will run a CNI on the same node.  A good choice is Calico.</p>
+
+<pre><code>$ kubectl apply -f https://docs.projectcalico.org/v3.3/getting-started/kubernetes/installation/hosted/rbac-kdd.yaml
+$ kubectl apply -f https://docs.projectcalico.org/v3.3/getting-started/kubernetes/installation/hosted/kubernetes-datastore/calico-networking/1.7/calico.yaml
+</code></pre>
+
+<p>On other nodes (worker nodes), run the join command:</p>
+
+<pre><code>$ kubeadm join TOKEN
+</code></pre>
+
+<p>where <code>TOKEN</code> is the join token printed after running kubeadm init on the master node.</p>
+
+<p>Wait a bit and then on the master node:</p>
+
+<pre><code>$ kubectl get nodes
+</code></pre>
+
+<p>This will show the list of nodes in the formed cluster.</p>
 
                     </div>
                     
