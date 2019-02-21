@@ -13,4 +13,3 @@ Yes, it is possible to learn React and enough javascript to be hired as a fullst
 
 I found most Hacker School graduates have not read [The Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html).  Granted it was written probably before most of Coding School folks were born. I think it is useful to read about this discipline as presented by Professor Dijkstra at ACM Turing lecture, 1972.
 
-For several decades, I have enjoyed programming in various languages and systems in pursuit of different goals. Some had practical scientific goals. Some just for fun. But I find that each day I have new things to learn. Almost too many. Each day I realize I need to continue learning to keep up. This endeavor we call programming is a lifelong process of learning.  It's about a way of life. And that means it isn't about 10,000 hours, 24 hours, or 10 years.  Life is more meaningful.
