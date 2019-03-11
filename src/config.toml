@@ -13,7 +13,7 @@ disqusShortname = "dsq-count-scr"
 
 [params]
   logo = "/images/logo.png"
-  description ="pretty much real IT stories"
+  description ="you get so confused at times that it just makes sense"
   #mailchimp = "you can provide a mailchimp-link here"
   mailchimp = "https://github.us20.list-manage.com/subscribe/post?u=3a6c8e9413cb5fcdc89160a5d&amp;id=673867ae25"
   mailprotect = "b_3a6c8e9413cb5fcdc89160a5d_673867ae25"
